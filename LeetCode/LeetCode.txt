@@ -1,0 +1,1 @@
+This folder contains all the code to the questions I procatice on leetcode in order to polish my leetcode skills.
